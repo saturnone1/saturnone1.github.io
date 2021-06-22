@@ -1,14 +1,14 @@
 
 title: My Resume
-url: 'http://junlulocky.com'
-baseurl: '/PanelCV' #change it according to your repository name
+url: 'http://saturnone1.com'
+baseurl: '' #change it according to your repository name
 
 
 
 # Profile information
-yourname: Brown Smith  ## put your name
-title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
-location: San Francisco , CA
+yourname: Tae Won Seo  ## put your name
+title: 'ROS with Automatic Driving System'  ## your title
+location: Suwon, Republic of Korea
 
 
 ## Social Profiles
